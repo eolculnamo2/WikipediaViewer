@@ -19,5 +19,8 @@ export default {
 </script>
 
 <style lang="scss">
-
+  h1{
+    display: block;
+    text-align: center;
+  }
 </style>
