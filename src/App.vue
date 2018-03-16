@@ -22,5 +22,6 @@ export default {
   h1{
     display: block;
     text-align: center;
+    margin-top: 4%;
   }
 </style>
